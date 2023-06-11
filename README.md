@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sriram</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram84502&label=Profile%20views&color=0e75b6&style=flat" alt="sriram84502" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriram84502" alt="sriram84502" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sai4502" target="blank"><img src="https://img.shields.io/twitter/follow/sai4502?logo=twitter&style=for-the-badge" alt="sai4502" /></a> </p>
-
 - 🔭 I’m currently working on [PyMultiTasker](https://github.com/itzr00tbyte/PyTasker)
 
 - 🌱 I’m currently learning **Flutter , React JS , Django , Solidity.**
@@ -20,6 +14,12 @@
 - 📫 How to reach me **vanapallisaisriram7@gmail.com**
 
 - ⚡ Fun fact **I am noob.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram84502&label=Profile%20views&color=0e75b6&style=flat" alt="sriram84502" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriram84502" alt="sriram84502" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sai4502" target="blank"><img src="https://img.shields.io/twitter/follow/sai4502?logo=twitter&style=for-the-badge" alt="sai4502" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
